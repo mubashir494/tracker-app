@@ -1,5 +1,5 @@
 import axios from "axios"
-const URL = "http://localhost:4000"
+const URL = "https://tracker-employee.herokuapp.com"
 
 axios.interceptors.request.use((request) => {
     if(localStorage.getItem('item')){
