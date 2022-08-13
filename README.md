@@ -1,6 +1,6 @@
 # tracker-app
 Hosted On :
-https://tracker-employee.herokuapp.com/login
+https://tracker-employee.herokuapp.com
 
 Admin Credentials <br/>
 email : mubashirqbl@gmail.com<br/>
