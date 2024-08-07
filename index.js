@@ -37,7 +37,7 @@ const io = new Server(server,{
         methods : ["GET","POST"]
     }
 })
-socketFunc(io)
+// socketFunc(io)
 
 if(process.env.NODE_ENV == "production"){
     const __filename = fileURLToPath(import.meta.url);
