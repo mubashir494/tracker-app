@@ -16,8 +16,8 @@ The Employee Tracker Application helps companies monitor and track their employe
 - **Database:** MongoDB
 - **Real-time Communication:** Socket.IO
 
-## Sample Users
-- **Email( Admin ):** mubashirqbl@gmail.com
+## Sample Users For Quick Access
+- **Email(Admin):** mubashirqbl@gmail.com
 - **Password:** mubashir123
-- **Email( User):** daniyal_dx@gmail.com
+- **Email(User):** daniyal_dx@gmail.com
 - **Password:** mubashir123
