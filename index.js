@@ -25,6 +25,7 @@ dotenv.config()
 app.use(cors());
 
 app.get('/favicon.ico', (req, res) => res.status(204));
+app.get('/', (req, res) => res.status(200).send("Hello WOrll"));
 app.use('/user',user)
 app.use('/journey',journey)
 app.use('/trip',trip)
