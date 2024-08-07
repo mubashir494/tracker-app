@@ -24,7 +24,7 @@ app.use(bodyParser.json());
 dotenv.config()
 app.use(cors());
 
-
+app.get('/favicon.ico', (req, res) => res.status(204));
 app.use('/user',user)
 app.use('/journey',journey)
 app.use('/trip',trip)
